@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm James</h1>
 <h3 align="center">A Developer From India</h3>
+<mg align="right" alt="Coding" width="400" src="[https://cdn.dribbble.com/users/116207...](https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif)">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jamesxmyles&label=Profile%20views&color=0e75b6&style=flat" alt="jamesxmyles" /> </p>
 
